@@ -1,7 +1,4 @@
 github: []
-paypal:
-  email: kostas.sliazas@gmail.com
-  button: https://www.paypal.com/donate/?hosted_button_id=FCPW77XUNSHZJ
-buymeacoffee:
-  username: k.sliazas
+custom: ["https://www.paypal.com/donate/?hosted_button_id=FCPW77XUNSHZJ"]
+buy_me_a_coffee: k.sliazas
 
